@@ -3,14 +3,13 @@ A subtitle generator for audios and videos
 
 ## Installation
 
-1. Install SpeechRecognition
+**1. Install SpeechRecognition**
 
 ```
 pip install SpeechRecognition
 ```
 
-
-2. Install Pocketsphinx
+**2. Install Pocketsphinx**
 
 Try these commands:
 
@@ -25,7 +24,7 @@ If failed (e.g. "cannot find swig.exe"), go to the [Unofficial Windows Binaries 
 pip install pocketsphinx-*.whl
 ```
 
-3. Run test example
+**3. Run test example**
 
 The "english.wav" can be from [here](https://github.com/Uberi/speech_recognition/blob/master/examples/english.wav).
 
